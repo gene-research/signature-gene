@@ -1,5 +1,4 @@
-# A Composite Machine Learning Approach to Discover Biomarkers and their Genetic Relevance on Ovarian Cancer Chemoresistance Based on A Chinese Clinical
-Dataset
+# A Composite Machine Learning Approach to Discover Biomarkers and their Genetic Relevance on Ovarian Cancer Chemoresistance 
 This repository contains the code for the paper "A Composite Machine Learning Approach to Discover Biomarkers and their Genetic Relevance on Ovarian Cancer Chemoresistance Based on A Chinese Clinical Dataset".
 
 ## Abstract
