@@ -10,4 +10,4 @@ A novel dynamic feature elimination random forest (DFE-RF) algorithm is presente
 Signature gene selection and evaluation.ipynb contains the selection process of seven signature genes.
 
 ## Data
-The raw sequencing data files of our cohort were deposited in the Chinese National Genomics Data Center, https://ngdc.cncb.ac.cn/omix.
+The raw sequencing data files of our cohort were deposited in the Chinese National Genomics Data Center (OMIX001152 and OMIX002249), https://ngdc.cncb.ac.cn/omix.
